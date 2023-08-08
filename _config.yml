@@ -11,6 +11,8 @@ description: An Engineer who loves learning and sharing cool engineering stuff.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
+theme: minima
+
 #
 # Flags below are optional
 #
